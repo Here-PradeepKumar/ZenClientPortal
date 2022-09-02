@@ -8,7 +8,7 @@ Karomi Technology Private Limited.,
 Since The DB I utilised can only be accessed within Our LAN ;
 Kindly Contact me for evaluation,
 
-I haven't created separate page foe admin Login;
+I haven't created separate page for admin Login;
 
  Kindly use the following Credentials for admin Login
     Username:admin@portal.com
